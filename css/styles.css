@@ -809,10 +809,7 @@ a {
     .block-showcase__image {
       justify-self: end;
     }
-  }
-  .block-showcase__image > img {
-       /* max-width:270px;*/
-  }
+  } 
   /* Footer */
   .footer {
     background: #232323;
